@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/node.dir/main.cpp.o CMakeFiles/node.dir/node.cpp.o CMakeFiles/node.dir/segment_handler.cpp.o CMakeFiles/node.dir/segment.cpp.o CMakeFiles/node.dir/socket.cpp.o -o node 

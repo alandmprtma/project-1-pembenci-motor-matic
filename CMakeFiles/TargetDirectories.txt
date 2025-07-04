@@ -1,0 +1,3 @@
+/home/nerglite/TEMPORARY FOLDER HERE/jarkom/project-1-pembenci-motor-matic/CMakeFiles/node.dir
+/home/nerglite/TEMPORARY FOLDER HERE/jarkom/project-1-pembenci-motor-matic/CMakeFiles/edit_cache.dir
+/home/nerglite/TEMPORARY FOLDER HERE/jarkom/project-1-pembenci-motor-matic/CMakeFiles/rebuild_cache.dir
